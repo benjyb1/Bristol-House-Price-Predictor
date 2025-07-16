@@ -2,7 +2,6 @@
 
 This project uses machine learning techniques — including ARIMAX and LSTM models — to predict house prices across Bristol, incorporating both spatial and demographic data. Built in collaboration with the housing charity **Baggator**, the tool aims to offer a robust and interpretable way to understand and anticipate housing market trends.
 This project was done for the housing charity Baggator.
-![Alt text describing the image](Screenshot)
 [View Full Report (PDF)](MDM3_House_Prices.pdf)
 
 ---
